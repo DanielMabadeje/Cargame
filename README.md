@@ -1,6 +1,9 @@
+
+
+
 Javascript Pseudo 3D Racer
 ==========================
-
+Credits [onalauf](https://github.com/onaluf/)
 An Outrun-style pseudo-3d racing game in HTML5 and Javascript
 
  * [play the game](http://codeincomplete.com/projects/racer/v4.final.html)
